@@ -26,7 +26,7 @@ function DarkContentH(props) {
               <img
                 alt="content"
                 className="object-cover object-center h-full w-full"
-                src="https://dummyimage.com/1203x503"
+                src="https://source.unsplash.com/1203x503"
               />
             </div>
             <h2 className="text-xl font-medium title-font text-white mt-5">
@@ -57,7 +57,7 @@ function DarkContentH(props) {
               <img
                 alt="content"
                 className="object-cover object-center h-full w-full"
-                src="https://dummyimage.com/1204x504"
+                src="https://source.unsplash.com/1204x504"
               />
             </div>
             <h2 className="text-xl font-medium title-font text-white mt-5">
@@ -88,7 +88,7 @@ function DarkContentH(props) {
               <img
                 alt="content"
                 className="object-cover object-center h-full w-full"
-                src="https://dummyimage.com/1205x505"
+                src="https://source.unsplash.com/1205x505"
               />
             </div>
             <h2 className="text-xl font-medium title-font text-white mt-5">

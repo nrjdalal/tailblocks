@@ -25,7 +25,7 @@ function LightTestimonialA(props) {
                 pabst authentic iceland.
               </p>
               <a href className="inline-flex items-center">
-              <img alt="testimonial" src="https://dummyimage.com/106x106" className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center" />
+              <img alt="testimonial" src="https://source.unsplash.com/106x106/?1" className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center" />
                 <span className="flex-grow flex flex-col pl-4">
                   <span className="title-font font-medium text-gray-900">
                     Holden Caulfield
@@ -52,7 +52,7 @@ function LightTestimonialA(props) {
                 pabst authentic iceland.
               </p>
               <a href className="inline-flex items-center">
-                <img alt="testimonial" src="https://dummyimage.com/107x107" className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center" />
+                <img alt="testimonial" src="https://source.unsplash.com/107x107/?2" className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center" />
                 <span className="flex-grow flex flex-col pl-4">
                   <span className="title-font font-medium text-gray-900">
                     Alper Kamu

@@ -10,7 +10,7 @@ function DarkGalleryB(props) {
             <img
               alt="gallery"
               className="w-full object-cover h-full object-center block opacity-25 absolute inset-0"
-              src="https://dummyimage.com/820x340"
+              src="https://source.unsplash.com/820x340"
             />
             <div className="text-center relative z-10 w-full">
               <h2 className="text-2xl text-white font-medium title-font mb-2">
@@ -41,7 +41,7 @@ function DarkGalleryB(props) {
                 <img
                   alt="gallery"
                   className="w-full object-cover h-full object-center block opacity-25 absolute inset-0"
-                  src="https://dummyimage.com/542x460"
+                  src="https://source.unsplash.com/542x460"
                 />
                 <div className="text-center relative z-10 w-full">
                   <h2 className="text-xl text-white font-medium title-font mb-2">
@@ -72,7 +72,7 @@ function DarkGalleryB(props) {
                 <img
                   alt="gallery"
                   className="w-full object-cover h-full object-center block opacity-25 absolute inset-0"
-                  src="https://dummyimage.com/542x420"
+                  src="https://source.unsplash.com/542x420"
                 />
                 <div className="text-center relative z-10 w-full">
                   <h2 className="text-xl text-white font-medium title-font mb-2">

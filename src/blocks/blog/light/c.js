@@ -69,7 +69,7 @@ function LightBlogC(props) {
             <a href className="inline-flex items-center">
               <img
                 alt="blog"
-                src="https://dummyimage.com/104x104"
+                src="https://source.unsplash.com/104x104"
                 className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center"
               />
               <span className="flex-grow flex flex-col pl-4">
@@ -142,7 +142,7 @@ function LightBlogC(props) {
             <a href className="inline-flex items-center">
               <img
                 alt="blog"
-                src="https://dummyimage.com/103x103"
+                src="https://source.unsplash.com/103x103"
                 className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center"
               />
               <span className="flex-grow flex flex-col pl-4">

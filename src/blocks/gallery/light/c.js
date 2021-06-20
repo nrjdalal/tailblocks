@@ -21,7 +21,7 @@ function LightGalleryC(props) {
               <img
                 alt="gallery"
                 className="absolute inset-0 w-full h-full object-cover object-center"
-                src="https://dummyimage.com/600x360"
+                src="https://source.unsplash.com/600x360"
               />
               <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                 <h2 className={`tracking-widest text-sm title-font font-medium text-${props.theme}-500 mb-1`}>
@@ -42,7 +42,7 @@ function LightGalleryC(props) {
               <img
                 alt="gallery"
                 className="absolute inset-0 w-full h-full object-cover object-center"
-                src="https://dummyimage.com/601x361"
+                src="https://source.unsplash.com/601x361"
               />
               <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                 <h2 className={`tracking-widest text-sm title-font font-medium text-${props.theme}-500 mb-1`}>
@@ -63,7 +63,7 @@ function LightGalleryC(props) {
               <img
                 alt="gallery"
                 className="absolute inset-0 w-full h-full object-cover object-center"
-                src="https://dummyimage.com/603x363"
+                src="https://source.unsplash.com/603x363"
               />
               <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                 <h2 className={`tracking-widest text-sm title-font font-medium text-${props.theme}-500 mb-1`}>
@@ -84,7 +84,7 @@ function LightGalleryC(props) {
               <img
                 alt="gallery"
                 className="absolute inset-0 w-full h-full object-cover object-center"
-                src="https://dummyimage.com/602x362"
+                src="https://source.unsplash.com/602x362"
               />
               <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                 <h2 className={`tracking-widest text-sm title-font font-medium text-${props.theme}-500 mb-1`}>
@@ -105,7 +105,7 @@ function LightGalleryC(props) {
               <img
                 alt="gallery"
                 className="absolute inset-0 w-full h-full object-cover object-center"
-                src="https://dummyimage.com/605x365"
+                src="https://source.unsplash.com/605x365"
               />
               <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                 <h2 className={`tracking-widest text-sm title-font font-medium text-${props.theme}-500 mb-1`}>
@@ -126,7 +126,7 @@ function LightGalleryC(props) {
               <img
                 alt="gallery"
                 className="absolute inset-0 w-full h-full object-cover object-center"
-                src="https://dummyimage.com/606x366"
+                src="https://source.unsplash.com/606x366"
               />
               <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                 <h2 className={`tracking-widest text-sm title-font font-medium text-${props.theme}-500 mb-1`}>

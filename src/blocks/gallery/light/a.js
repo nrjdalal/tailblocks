@@ -20,21 +20,21 @@ function LightGalleryA() {
               <img
                 alt="gallery"
                 className="w-full object-cover h-full object-center block"
-                src="https://dummyimage.com/500x300"
+                src="https://source.unsplash.com/500x300"
               />
             </div>
             <div className="md:p-2 p-1 w-1/2">
               <img
                 alt="gallery"
                 className="w-full object-cover h-full object-center block"
-                src="https://dummyimage.com/501x301"
+                src="https://source.unsplash.com/501x301"
               />
             </div>
             <div className="md:p-2 p-1 w-full">
               <img
                 alt="gallery"
                 className="w-full h-full object-cover object-center block"
-                src="https://dummyimage.com/600x360"
+                src="https://source.unsplash.com/600x360"
               />
             </div>
           </div>
@@ -43,21 +43,21 @@ function LightGalleryA() {
               <img
                 alt="gallery"
                 className="w-full h-full object-cover object-center block"
-                src="https://dummyimage.com/601x361"
+                src="https://source.unsplash.com/601x361"
               />
             </div>
             <div className="md:p-2 p-1 w-1/2">
               <img
                 alt="gallery"
                 className="w-full object-cover h-full object-center block"
-                src="https://dummyimage.com/502x302"
+                src="https://source.unsplash.com/502x302"
               />
             </div>
             <div className="md:p-2 p-1 w-1/2">
               <img
                 alt="gallery"
                 className="w-full object-cover h-full object-center block"
-                src="https://dummyimage.com/503x303"
+                src="https://source.unsplash.com/503x303"
               />
             </div>
           </div>

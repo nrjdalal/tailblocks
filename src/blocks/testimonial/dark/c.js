@@ -11,7 +11,7 @@ function DarkTestimonialC(props) {
               <img
                 alt="testimonial"
                 className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-800 bg-gray-800 bg-opacity-10"
-                src="https://dummyimage.com/302x302"
+                src="https://source.unsplash.com/302x302/?1"
               />
               <p className="leading-relaxed">
                 Edison bulb retro cloud bread echo park, helvetica stumptown
@@ -31,7 +31,7 @@ function DarkTestimonialC(props) {
               <img
                 alt="testimonial"
                 className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-800 bg-gray-800 bg-opacity-10"
-                src="https://dummyimage.com/300x300"
+                src="https://source.unsplash.com/300x300/?2"
               />
               <p className="leading-relaxed">
                 Edison bulb retro cloud bread echo park, helvetica stumptown
@@ -51,7 +51,7 @@ function DarkTestimonialC(props) {
               <img
                 alt="testimonial"
                 className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-800 bg-gray-800 bg-opacity-10"
-                src="https://dummyimage.com/305x305"
+                src="https://source.unsplash.com/305x305/?3"
               />
               <p className="leading-relaxed">
                 Edison bulb retro cloud bread echo park, helvetica stumptown

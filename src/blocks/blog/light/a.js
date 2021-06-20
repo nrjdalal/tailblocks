@@ -10,7 +10,7 @@ function LightBlogA(props) {
             <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
               <img
                 className="lg:h-48 md:h-36 w-full object-cover object-center"
-                src="https://dummyimage.com/720x400"
+                src="https://source.unsplash.com/720x400"
                 alt="blog"
               />
               <div className="p-6">
@@ -80,7 +80,7 @@ function LightBlogA(props) {
             <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
               <img
                 className="lg:h-48 md:h-36 w-full object-cover object-center"
-                src="https://dummyimage.com/721x401"
+                src="https://source.unsplash.com/721x401"
                 alt="blog"
               />
               <div className="p-6">
@@ -150,7 +150,7 @@ function LightBlogA(props) {
             <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
               <img
                 className="lg:h-48 md:h-36 w-full object-cover object-center"
-                src="https://dummyimage.com/722x402"
+                src="https://source.unsplash.com/722x402"
                 alt="blog"
               />
               <div className="p-6">

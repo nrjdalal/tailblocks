@@ -10,7 +10,7 @@ function DarkContentF(props) {
             <img
               alt="content"
               className="object-cover object-center h-full w-full"
-              src="https://dummyimage.com/1200x500"
+              src="https://source.unsplash.com/1200x500"
             />
           </div>
           <div className="flex flex-col sm:flex-row mt-10">

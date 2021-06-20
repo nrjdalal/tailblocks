@@ -20,7 +20,7 @@ function LightTeamA() {
               <img
                 alt="team"
                 className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4"
-                src="https://dummyimage.com/80x80"
+                src="https://source.unsplash.com/80x80"
               />
               <div className="flex-grow">
                 <h2 className="text-gray-900 title-font font-medium">
@@ -35,7 +35,7 @@ function LightTeamA() {
               <img
                 alt="team"
                 className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4"
-                src="https://dummyimage.com/84x84"
+                src="https://source.unsplash.com/84x84"
               />
               <div className="flex-grow">
                 <h2 className="text-gray-900 title-font font-medium">
@@ -50,7 +50,7 @@ function LightTeamA() {
               <img
                 alt="team"
                 className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4"
-                src="https://dummyimage.com/88x88"
+                src="https://source.unsplash.com/88x88"
               />
               <div className="flex-grow">
                 <h2 className="text-gray-900 title-font font-medium">
@@ -65,7 +65,7 @@ function LightTeamA() {
               <img
                 alt="team"
                 className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4"
-                src="https://dummyimage.com/90x90"
+                src="https://source.unsplash.com/90x90"
               />
               <div className="flex-grow">
                 <h2 className="text-gray-900 title-font font-medium">
@@ -80,7 +80,7 @@ function LightTeamA() {
               <img
                 alt="team"
                 className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4"
-                src="https://dummyimage.com/94x94"
+                src="https://source.unsplash.com/94x94"
               />
               <div className="flex-grow">
                 <h2 className="text-gray-900 title-font font-medium">
@@ -95,7 +95,7 @@ function LightTeamA() {
               <img
                 alt="team"
                 className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4"
-                src="https://dummyimage.com/98x98"
+                src="https://source.unsplash.com/98x98"
               />
               <div className="flex-grow">
                 <h2 className="text-gray-900 title-font font-medium">
@@ -110,7 +110,7 @@ function LightTeamA() {
               <img
                 alt="team"
                 className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4"
-                src="https://dummyimage.com/100x90"
+                src="https://source.unsplash.com/100x90"
               />
               <div className="flex-grow">
                 <h2 className="text-gray-900 title-font font-medium">
@@ -125,7 +125,7 @@ function LightTeamA() {
               <img
                 alt="team"
                 className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4"
-                src="https://dummyimage.com/104x94"
+                src="https://source.unsplash.com/104x94"
               />
               <div className="flex-grow">
                 <h2 className="text-gray-900 title-font font-medium">
@@ -140,7 +140,7 @@ function LightTeamA() {
               <img
                 alt="team"
                 className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4"
-                src="https://dummyimage.com/108x98"
+                src="https://source.unsplash.com/108x98"
               />
               <div className="flex-grow">
                 <h2 className="text-gray-900 title-font font-medium">

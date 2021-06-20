@@ -11,7 +11,7 @@ function DarkContentG(props) {
               <img
                 alt="content"
                 className="object-cover object-center h-full w-full"
-                src="https://dummyimage.com/1201x501"
+                src="https://source.unsplash.com/1201x501"
               />
             </div>
             <h2 className="title-font text-2xl font-medium text-white mt-6 mb-3">
@@ -30,7 +30,7 @@ function DarkContentG(props) {
               <img
                 alt="content"
                 className="object-cover object-center h-full w-full"
-                src="https://dummyimage.com/1202x502"
+                src="https://source.unsplash.com/1202x502"
               />
             </div>
             <h2 className="title-font text-2xl font-medium text-white mt-6 mb-3">

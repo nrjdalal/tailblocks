@@ -30,7 +30,7 @@ function DarkBlogE(props) {
                 <a href className="inline-flex items-center">
                   <img
                     alt="blog"
-                    src="https://dummyimage.com/103x103"
+                    src="https://source.unsplash.com/103x103"
                     className="w-8 h-8 rounded-full flex-shrink-0 object-cover object-center"
                   />
                   <span className="flex-grow flex flex-col pl-3">
@@ -66,7 +66,7 @@ function DarkBlogE(props) {
                 <a href className="inline-flex items-center">
                   <img
                     alt="blog"
-                    src="https://dummyimage.com/102x102"
+                    src="https://source.unsplash.com/102x102"
                     className="w-8 h-8 rounded-full flex-shrink-0 object-cover object-center"
                   />
                   <span className="flex-grow flex flex-col pl-3">
@@ -102,7 +102,7 @@ function DarkBlogE(props) {
                 <a href className="inline-flex items-center">
                   <img
                     alt="blog"
-                    src="https://dummyimage.com/101x101"
+                    src="https://source.unsplash.com/101x101"
                     className="w-8 h-8 rounded-full flex-shrink-0 object-cover object-center"
                   />
                   <span className="flex-grow flex flex-col pl-3">

@@ -20,7 +20,7 @@ function LightTeamC() {
               <img
                 alt="team"
                 className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
-                src="https://dummyimage.com/200x200"
+                src="https://source.unsplash.com/200x200"
               />
               <div className="w-full">
                 <h2 className="title-font font-medium text-lg text-gray-900">
@@ -80,7 +80,7 @@ function LightTeamC() {
               <img
                 alt="team"
                 className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
-                src="https://dummyimage.com/201x201"
+                src="https://source.unsplash.com/201x201"
               />
               <div className="w-full">
                 <h2 className="title-font font-medium text-lg text-gray-900">
@@ -140,7 +140,7 @@ function LightTeamC() {
               <img
                 alt="team"
                 className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
-                src="https://dummyimage.com/202x202"
+                src="https://source.unsplash.com/202x202"
               />
               <div className="w-full">
                 <h2 className="title-font font-medium text-lg text-gray-900">
@@ -200,7 +200,7 @@ function LightTeamC() {
               <img
                 alt="team"
                 className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4"
-                src="https://dummyimage.com/203x203"
+                src="https://source.unsplash.com/203x203"
               />
               <div className="w-full">
                 <h2 className="title-font font-medium text-lg text-gray-900">

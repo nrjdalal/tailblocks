@@ -65,7 +65,7 @@ function DarkStepB(props) {
             STEP 4
           </a>
         </div>
-        <img className="xl:w-1/4 lg:w-1/3 md:w-1/2 w-2/3 block mx-auto mb-10 object-cover object-center rounded" alt="hero" src="https://dummyimage.com/720x600" />
+        <img className="xl:w-1/4 lg:w-1/3 md:w-1/2 w-2/3 block mx-auto mb-10 object-cover object-center rounded" alt="hero" src="https://source.unsplash.com/720x600" />
         <div className="flex flex-col text-center w-full">
           <h1 className="text-xl font-medium title-font mb-4 text-white">
             Master Cleanse Reliac Heirloom
