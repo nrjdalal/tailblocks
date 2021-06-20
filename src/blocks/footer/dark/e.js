@@ -113,7 +113,7 @@ function DarkFooterE(props) {
             <span className="ml-3 text-xl">VEROXYLE</span>
           </a>
           <p className="text-sm text-gray-400 sm:ml-6 sm:mt-0 mt-4">
-            © 2020 Tailblocks —
+            © 2020 VEROXYLE —
             <a href="https://twitter.com/knyttneve" className="text-gray-500 ml-1" target="_blank" rel="noopener noreferrer">
               @knyttneve
             </a>
