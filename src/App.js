@@ -344,12 +344,12 @@ class App extends Component {
                 <>
                   <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.2/tailwind.min.css" rel="stylesheet" />
                   {
-                    <style
-                      dangerouslySetInnerHTML={{
-                        __html: `img { filter:
-                      ${darkMode ? 'invert(1) opacity(.5); mix-blend-mode: luminosity; }' : 'sepia(1) hue-rotate(190deg) opacity(.46) grayscale(.7) }'}`,
-                      }}
-                    />
+                    // <style
+                    //   dangerouslySetInnerHTML={{
+                    //     __html: `img { filter:
+                    //   ${darkMode ? 'invert(1) opacity(.5); mix-blend-mode: luminosity; }' : 'sepia(1) hue-rotate(190deg) opacity(.46) grayscale(.7) }'}`,
+                    //   }}
+                    // />
                   }
                 </>
               }
