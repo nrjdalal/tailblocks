@@ -95,6 +95,10 @@
   --main-400: #f687b3;
 }
 
+img{
+  filter: none;
+}
+
 .pink:not(.dark-mode) {
   --main-200: #fed7e2;
   --main-100: #fff5f7;
