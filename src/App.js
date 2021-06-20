@@ -363,30 +363,6 @@ class App extends Component {
             </div>
           </div>
         </main>
-        <div className="keyboard-nav">
-          <div className={`k-up keyboard-button${currentKeyCode === 38 ? ' is-active' : ''}`} data-info="Previous block">
-            <svg stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round" viewBox="0 0 24 24">
-              <path d="M12 19V5M5 12l7-7 7 7" />
-            </svg>
-          </div>
-          <div className="keyboard-nav-row">
-            <div className={`k-left keyboard-button${currentKeyCode === 37 ? ' is-active' : ''}`} data-info="Hide sidebar">
-              <svg stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round" viewBox="0 0 24 24">
-                <path d="M19 12H5M12 19l-7-7 7-7" />
-              </svg>
-            </div>
-            <div className={`k-down keyboard-button${currentKeyCode === 40 ? ' is-active' : ''}`} data-info="Next block">
-              <svg stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round" viewBox="0 0 24 24">
-                <path d="M12 5v14M19 12l-7 7-7-7" />
-              </svg>
-            </div>
-            <div className={`k-right keyboard-button${currentKeyCode === 39 ? ' is-active' : ''}`} data-info="Show sidebar">
-              <svg stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round" viewBox="0 0 24 24">
-                <path d="M5 12h14M12 5l7 7-7 7" />
-              </svg>
-            </div>
-          </div>
-        </div>
       </div>
     )
   }
